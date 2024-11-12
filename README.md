@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Roy9957
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to My GitHub Profile! 👋
 
-<!---
-Roy9957/Roy9957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **coding projects** in **web development**, **software engineering**, and **game development**.
+- 🌱 I’m currently learning **advanced JavaScript**, **React**, and **game development** tools.
+- 👯 I’m looking to collaborate on **open-source projects** and share ideas with other developers.
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **game development**, and **coding challenges**.
+- ⚡ Fun fact: I love **creating gaming content** and exploring **new tech**.
+
+## Skills
+
+- 💻 **HTML**, **CSS**, **JavaScript**
+- 🛠️ **Firebase** (Database, Authentication)
+- 🕹️ **Game Development** (Unity, Game Engines)
+- 🖥️ **Web Development** (Frontend, Backend)
+
+## Future Updates
+
+- 🚀 Launch more exciting projects like **video streaming platforms** and **interactive websites**.
+- 💡 Create **engaging gaming videos** and **tutorials**.
+- 🌍 Explore **machine learning** and **AI development**.
